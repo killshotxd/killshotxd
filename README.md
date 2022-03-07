@@ -21,7 +21,11 @@
 <a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/visual-studio.png" height="30" /></a>
 <a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/github.png" height="30" /></a>
 
-### [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=killshotxd&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)]()
+### <a>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=killshotxd&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</a>
+
+
 ### [![GitHub stats](https://github-readme-stats.vercel.app/api?username=killshotxd&hide=contribs,prs,issues&show_icons=true&theme=radical)]()
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=killshotxd&layout=compact)]()
 
