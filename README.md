@@ -13,6 +13,8 @@
 <a href="https://www.linkedin.com/in/mohd-hassan-11707a223/" target="blank"><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/linkedin.png" height="30" /></a>
 
 ### Languages and Tools:
+
+<a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/html.png" height="30" /></a>
 <!--
 **killshotxd/killshotxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
