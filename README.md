@@ -15,6 +15,10 @@
 ### Languages and Tools:
 
 <a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/html.png" height="30" /></a>
+<a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/css.png" height="30" /></a>
+<a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/js-file.png" height="30" /></a>
+<a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/react.png" height="30" /></a>
+<a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/visual-studio.png" height="30" /></a>
 <!--
 **killshotxd/killshotxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
