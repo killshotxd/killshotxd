@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=killshotxd)
+
 ### Hi there 👋 my name is Mohd Hassan
 - 👨‍🎓 I’m B.Tech CSE Student
 - 🔭 I’m currently working on HTML,CSS and Js
