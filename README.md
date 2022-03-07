@@ -21,9 +21,8 @@
 <a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/visual-studio.png" height="30" /></a>
 <a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/github.png" height="30" /></a>
 
-### [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=killshotxd&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-### [![GitHub stats](https://github-readme-stats.vercel.app/api?username=killshotxd)](https://github.com/anuraghazra/github-readme-stats)
+### [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=killshotxd&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)]
+### [![GitHub stats](https://github-readme-stats.vercel.app/api?username=killshotxd)]
 <!--
 **killshotxd/killshotxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
