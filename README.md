@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there 👋 my name is Mohd Hassan
+- 👨‍🎓 I’m B.Tech CSE Student
+- 🔭 I’m currently working on HTML,CSS and Js
+- 🌱 I’m currently learning Web Development
+- ⚡ Future MERN stack Developer
 
+Connect with me:
+<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
 <!--
 **killshotxd/killshotxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
