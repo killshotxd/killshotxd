@@ -4,9 +4,10 @@
 - 🌱 I’m currently learning Web Development
 - ⚡ Future MERN stack Developer
 
-###Connect with me:
+### Connect with me:
 -
-<a href="https://www.facebook.com/profile.php?id=100007733971393" target="blank"><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/facebook.png" height="50" /></a>
+<a href="https://www.facebook.com/profile.php?id=100007733971393" target="blank"><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/facebook.png" height="40" /></a>
+<a href="https://www.instagram.com/ihassanansari/" target="blank"><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/instagram.png" height="40" /></a>
 <!--
 **killshotxd/killshotxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
