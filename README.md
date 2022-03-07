@@ -25,7 +25,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=killshotxd&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
 <a>
-  <img align="center" src="https://https://github-readme-stats2-killshotxd.vercel.app//api?username=killshotxd&repo=github-readme-stats&hide=contribs,prs,issues&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats2-killshotxd.vercel.app//api?username=killshotxd&repo=github-readme-stats&hide=contribs,prs,issues&show_icons=true&theme=radical" />
 </a>
 
 ### [![Top Langs](https://github-readme-stats2-killshotxd.vercel.app//api/top-langs/?username=killshotxd&layout=compact)]()
