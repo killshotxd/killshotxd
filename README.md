@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=killshotxd)
 
-### Hi there 👋 my name is Mohd Hassan                <a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/code.gif" height="500" /></a>
+### Hi there 👋 my name is Mohd Hassan                <a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/code.gif" height="300" /></a>
 - 👨‍🎓 I’m B.Tech CSE Student
 - 🔭 I’m currently working on HTML,CSS and Js
 - 🌱 I’m currently learning Web Development
