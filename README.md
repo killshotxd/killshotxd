@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on HTML,CSS and Js
 - 🌱 I’m currently learning Web Development
 - ⚡ Future MERN stack Developer
-
+<a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/code.gif" height="30" /></a>
 ### Connect with me:
 
 <a href="https://www.facebook.com/profile.php?id=100007733971393" target="blank"><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/facebook.png" height="30" /></a>
