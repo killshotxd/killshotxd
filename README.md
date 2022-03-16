@@ -24,6 +24,11 @@
 <a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/github.png" width="50" /></a>
 <br><br>
 
+### 💻 Workspace
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 ## Stats 📈
 <p align="center">
 <a>
@@ -37,7 +42,7 @@
 
 ## Top languages 🔝
 <img alt="languages" src="https://github-readme-stats2-killshotxd.vercel.app/api/top-langs/?username=killshotxd&layout=compact&hide_border=true&theme=radical" />
----
+
 
 <p align="center">
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
