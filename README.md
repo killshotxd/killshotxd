@@ -10,7 +10,7 @@
 
 ### Connect with me 🧑🏻‍:
 ![Facebook](https://img.shields.io/badge/Facebook-E34F26?style=for-the-badge&logo=facebook&logoColor=white?link=https://www.facebook.com/profile.php?id=100007733971393&link=https://www.facebook.com/profile.php?id=100007733971393)
-<a href="https://www.facebook.com/profile.php?id=100007733971393" target="blank"><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/facebook.png" width="50" /></a>
+<a href="https://www.facebook.com/profile.php?id=100007733971393" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-E34F26?style=for-the-badge&logo=facebook&logoColor=white" width="50" /></a>
 <a href="https://www.instagram.com/ihassanansari/" target="blank"><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/instagram.png" width="50" /></a>
 <a href="https://www.linkedin.com/in/mohd-hassan-11707a223/" target="blank"><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/linkedin.png" width="50" /></a>
 
