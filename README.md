@@ -53,6 +53,7 @@
 ## Top languages 🔝
 <img alt="languages" src="https://github-readme-stats2-killshotxd.vercel.app/api/top-langs/?username=killshotxd&layout=compact&hide_border=true&theme=radical" />
 
+![Hassan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=killshotxd&hide_border=true&theme=redical)
 
 <p align="center">
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
