@@ -17,11 +17,11 @@
 ### Languages and Tools:
 
 <a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/html.png" width="50" /></a>
-<a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/css.png" height="30" /></a>
-<a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/js-file.png" height="30" /></a>
-<a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/react.png" height="30" /></a>
-<a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/visual-studio.png" height="30" /></a>
-<a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/github.png" height="30" /></a>
+<a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/css.png" width="50" /></a>
+<a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/js-file.png" width="50" /></a>
+<a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/react.png" width="50" /></a>
+<a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/visual-studio.png" width="50" /></a>
+<a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/github.png" width="50" /></a>
 
 ### 
 
