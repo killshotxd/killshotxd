@@ -11,8 +11,8 @@
 ### Connect with me 🧑🏻‍:
 
 <a href="https://www.facebook.com/profile.php?id=100007733971393" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-E34F26?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://www.instagram.com/ihassanansari/" target="blank"><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/instagram.png" width="50" /></a>
-<a href="https://www.linkedin.com/in/mohd-hassan-11707a223/" target="blank"><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/linkedin.png" width="50" /></a>
+<a href="https://www.instagram.com/ihassanansari/" target="blank"><img align="center" src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white"  /></a>
+<a href="https://www.linkedin.com/in/mohd-hassan-11707a223/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-1572B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ### Languages and Tools 🧩🚀:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
