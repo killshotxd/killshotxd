@@ -8,13 +8,13 @@
 - ⚡ Future MERN stack Developer
 ###
 
-### Connect with me:
+### Connect with me 🧑🏻‍:
 
 <a href="https://www.facebook.com/profile.php?id=100007733971393" target="blank"><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/facebook.png" width="50" /></a>
 <a href="https://www.instagram.com/ihassanansari/" target="blank"><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/instagram.png" width="50" /></a>
 <a href="https://www.linkedin.com/in/mohd-hassan-11707a223/" target="blank"><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/linkedin.png" width="50" /></a>
 
-### Languages and Tools:
+### Languages and Tools 🧩🚀:
 
 <a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/html.png" width="50" /></a>
 <a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/css.png" width="50" /></a>
@@ -23,11 +23,9 @@
 <a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/visual-studio.png" width="50" /></a>
 <a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/github.png" width="50" /></a>
 <br><br>
-### 
 
+##Stats 📈
 <p align="center">
-
-
 <a>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=killshotxd&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </a><a>
@@ -37,7 +35,7 @@
 <br>
 
 
-## 🔝 Top languages
+##Top languages 🔝
 <img alt="languages" src="https://github-readme-stats2-killshotxd.vercel.app/api/top-langs/?username=killshotxd&layout=compact&hide_border=true&theme=radical" />
 ---
 <!--
