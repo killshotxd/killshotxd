@@ -20,7 +20,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![ReactJs](https://img.shields.io/badge/ReactJs-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![BootStrap](https://img.shields.io/badge/Bootstrap-1572B6?style=for-the-badge&logo=react&logoColor=white)
+![BootStrap](https://img.shields.io/badge/Bootstrap-violet?style=for-the-badge&logo=react&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
 <!-- ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) -->
 <!-- ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) -->
