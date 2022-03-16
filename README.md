@@ -38,7 +38,7 @@
 <br>
 ### [![Top Langs](https://github-readme-stats2-killshotxd.vercel.app//api/top-langs/?username=killshotxd&layout=compact)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=killshotxd&layout=compact)]
+[![Top Langs](https://github-readme-stats2-killshotxd.vercel.app/api/top-langs/?username=killshotxd&layout=compact)]
 <!--
 **killshotxd/killshotxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
