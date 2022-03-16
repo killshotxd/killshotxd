@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=killshotxd)
-<a><img align="right" src="https://github.com/killshotxd/svgIcons/blob/main/code.gif" width="40%" /></a>
 # Hey Everyone! I'm [Mohd Hassan a.k.a Killshotxd!](https://github.com/killshotxd) <img src="https://github.com/killshotxd/svgIcons/blob/main/Hi.gif" width="25px">
 <br><br>
+<a><img align="right" src="https://github.com/killshotxd/svgIcons/blob/main/code.gif" width="40%" /></a>
 - 👨‍🎓 I’m B.Tech CSE Student
 - 🔭 I’m currently working on HTML,CSS and Js
 - 🌱 I’m currently learning Web Development
