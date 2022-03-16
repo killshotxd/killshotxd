@@ -3,7 +3,7 @@
 <br><br>
 <a><img align="right" src="https://github.com/killshotxd/svgIcons/blob/main/code.gif" width="40%" /></a>
 - 👨‍🎓 I’m B.Tech CSE Student
-- 🔭 I’m currently working on HTML,CSS and Js
+- 🔭 I’m currently working on HTML, CSS, BootStrap, Bulma Css, Sass, MatterJs and Js
 - 🌱 I’m currently learning Web Development
 - ⚡ Future MERN stack Developer
 ###
