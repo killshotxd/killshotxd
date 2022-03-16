@@ -24,7 +24,7 @@
 <a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/github.png" width="50" /></a>
 <br><br>
 
-##Stats 📈
+## Stats 📈
 <p align="center">
 <a>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=killshotxd&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
@@ -35,7 +35,7 @@
 <br>
 
 
-##Top languages 🔝
+## Top languages 🔝
 <img alt="languages" src="https://github-readme-stats2-killshotxd.vercel.app/api/top-langs/?username=killshotxd&layout=compact&hide_border=true&theme=radical" />
 ---
 <!--
