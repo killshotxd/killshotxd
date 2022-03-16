@@ -22,7 +22,7 @@
 <a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/react.png" width="50" /></a>
 <a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/visual-studio.png" width="50" /></a>
 <a><img align="center" src="https://github.com/killshotxd/svgIcons/blob/main/github.png" width="50" /></a>
-
+<br><br>
 ### 
 
 <p align="center">
