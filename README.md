@@ -29,7 +29,7 @@
 
 <span>
 <a>
-  <img width="35%" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=killshotxd&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="38%" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=killshotxd&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </a><a>
   <img height="35%" align="right" src="https://github-readme-stats2-killshotxd.vercel.app//api?username=killshotxd&repo=github-readme-stats&hide=contribs,prs,issues&show_icons=true&theme=radical" />
 </a>
