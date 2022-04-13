@@ -53,14 +53,14 @@
 <a>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=killshotxd&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </a><a>
-  <img width="48%" src="https://github-readme-stats2-killshotxd.vercel.app//api?username=killshotxd&repo=github-readme-stats&hide_border=true&hide=contribs,prs,issues&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats-killshotxd.vercel.app//api?username=killshotxd&repo=github-readme-stats&hide_border=true&hide=contribs,prs,issues&show_icons=true&theme=radical" />
 </a>
 </p>
 <br>
 
 
 ## Top languages 🔝
-<img alt="languages" src="https://github-readme-stats2-killshotxd.vercel.app/api/top-langs/?username=killshotxd&layout=compact&hide_border=true&theme=radical" />
+<img alt="languages" src="https://github-readme-stats-killshotxd.vercel.app/api/top-langs/?username=killshotxd&layout=compact&hide_border=true&theme=radical" />
 
 ![Hassan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=killshotxd&hide_border=true&theme=redical)
 
