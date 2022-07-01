@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=killshotxd&style=for-the-badge&color=blueviolet)
-# Hey Everyone! I'm [Mohd Hassan a.k.a Killshotxd!](https://github.com/killshotxd) <img src="https://github.com/killshotxd/svgIcons/blob/main/Hi.gif" width="25%">
+# Hey Everyone! I'm [Mohd Hassan a.k.a Killshotxd!](https://github.com/killshotxd) <img src="https://github.com/killshotxd/svgIcons/blob/main/Hi.gif" width="20px">
 <br><br>
 <a><img align="right" src="https://github.com/killshotxd/svgIcons/blob/main/code.gif" width="40%" /></a>
 - 👨‍🎓 I’m B.Tech CSE Student
