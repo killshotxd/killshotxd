@@ -1,10 +1,14 @@
 ![](https://komarev.com/ghpvc/?username=killshotxd&style=for-the-badge&color=blueviolet)
-# Hey Everyone! I'm [Mohd Hassan a.k.a Killshotxd!](https://github.com/killshotxd) 
+
+# Hey Everyone! I'm [Mohd Hassan a.k.a Killshotxd!](https://github.com/killshotxd)
+
 <a><img align="right" src="https://github.com/killshotxd/svgIcons/blob/main/code.gif" width="40%" /></a>
+
 - 👨‍🎓 I’m B.Tech CSE Student
 - 🔭 I’m currently working on HTML, CSS, BootStrap, Bulma Css, Sass, MatterJs and Js
 - 🌱 I’m currently learning Web Development
 - ⚡ Future MERN stack Developer
+
 ###
 
 ### Connect with me 🧑🏻‍:
@@ -14,6 +18,7 @@
 <a href="https://www.instagram.com/ihassanansari/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-4c68d7?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 ### Languages and Tools 🧩🚀:
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,15 +37,13 @@
 ![BulmaCss](https://img.shields.io/badge/Bulma-FF6C37?style=for-the-badge&logo=bulma&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-1572B6?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-1572B6?style=for-the-badge&logo=dart&logoColor=white)
-<!-- ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) -->
 
+<!-- ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) -->
 
 <!-- ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) -->
 
-
 <!-- ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) -->
 <!-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) -->
-
 
 ### 💻 Workspace
 
@@ -48,17 +51,18 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## Stats 📈
+
 <p align="center">
 <a>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=killshotxd&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </a><a>
-  <img width="48%" src="https://github-readme-stats-killshotxd.vercel.app//api?username=killshotxd&repo=github-readme-stats&hide_border=true&hide=contribs,prs,issues&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats-killshotxd.vercel.app//api?username=killshotxd&repo=github-readme-stats&hide_border=true&hide=contribs&show_icons=true&theme=radical" />
 </a>
 </p>
 <br>
 
-
 ## Top languages 🔝
+
 <img alt="languages" src="https://github-readme-stats-killshotxd.vercel.app/api/top-langs/?username=killshotxd&layout=compact&hide_border=true&theme=radical" />
 
 ![Hassan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=killshotxd&hide_border=true&theme=redical)
@@ -79,4 +83,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
