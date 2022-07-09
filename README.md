@@ -7,6 +7,7 @@
 - 👨‍🎓 I’m B.Tech CSE Student
 - 🔭 I’m currently working on HTML, CSS, BootStrap, Bulma Css, Sass, MatterJs and Js
 - 🌱 I’m currently learning Web Development
+- ⚡ Learning React
 - ⚡ Future MERN stack Developer
 
 ###
