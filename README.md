@@ -11,6 +11,11 @@
 - ⚡ Learning React
 - ⚡ Future MERN stack Developer
 
+</br>
+
+<a href="https://www.github.com/killshotxd" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/killshotxd?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ###
 
 ### Connect with me 🧑🏻‍:
