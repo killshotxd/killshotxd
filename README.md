@@ -1,4 +1,7 @@
-![](https://komarev.com/ghpvc/?username=killshotxd&style=for-the-badge&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=killshotxd&style=for-the-badge&color=0891b2&labelColor=1c1917)
+
+<a href="https://www.github.com/killshotxd" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/killshotxd?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 # 🚀 Hey Everyone! I'm [Mohd Hassan a.k.a Killshotxd!](https://github.com/killshotxd)
 
@@ -10,11 +13,6 @@
 - 🌱 I’m currently learning Apps Script
 - ⚡ Learning React
 - ⚡ Future MERN stack Developer
-
-</br>
-
-<a href="https://www.github.com/killshotxd" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/killshotxd?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ###
 
