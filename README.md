@@ -43,12 +43,6 @@ src="https://img.shields.io/github/followers/killshotxd?logo=github&style=for-th
 ![Flutter](https://img.shields.io/badge/Flutter-1572B6?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-1572B6?style=for-the-badge&logo=dart&logoColor=white)
 
-<!-- ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) -->
-
-<!-- ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) -->
-
-<!-- ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) -->
-<!-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) -->
 
 ### 💻 Workspace
 
