@@ -7,11 +7,10 @@ src="https://img.shields.io/github/followers/killshotxd?logo=github&style=for-th
 
 <a><img align="right" src="https://github.com/killshotxd/svgIcons/blob/main/code.gif" width="40%" /></a>
 
-- 👨‍🎓 I’m B.Tech CSE Student
+- 👨‍🎓 I’m a B.Tech CSE Student
 - 🔭 I’m currently working on HTML, CSS, JS, REACT and Google Apps Script
 - 🌱 I’m currently learning Web Development
 - 🌱 I’m currently learning Apps Script
-- ⚡ Learning React
 - ⚡ Future MERN stack Developer
 
 ###
