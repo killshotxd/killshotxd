@@ -3,10 +3,10 @@
 <a href="https://www.github.com/killshotxd" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/killshotxd?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-//# 🚀 Hey Everyone! I'm [Mohd Hassan a.k.a Killshotxd!](https://github.com/killshotxd)
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mohd+Hassan....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mohd+Hassan....;A.k.a Killshotxd...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 <a><img align="right" src="https://github.com/killshotxd/svgIcons/blob/main/code.gif" width="40%" /></a>
