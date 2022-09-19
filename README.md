@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/killshotxd?logo=github&style=for-th
 <br />
 
 <div align="center">
-  <strong>### Connect with me 🧑🏻‍:</strong>
+  <h3>### Connect with me 🧑🏻‍:</h3>\n
 
 <a href="https://www.facebook.com/profile.php?id=100007733971393" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-E34F26?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/mohd-hassan-11707a223/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-1572B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
