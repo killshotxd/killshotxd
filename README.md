@@ -10,23 +10,32 @@ src="https://img.shields.io/github/followers/killshotxd?logo=github&style=for-th
   </a>
 </h1>
 
-<div align="center"><img src="https://github.com/killshotxd/svgIcons/blob/main/code.gif" width="40%" /></div>
+<p align="center">
+  <code>
+    <a href="mailto:hassanansari211@gmail.com" title="Gmail"><img width="22" src="https://github.com/manjotsidhu/manjotsidhu/blob/master/icons/Gmail.png"> Gmail</a></code>
+    <code><a href="https://linkedin.com/in/mohd-hassan-11707a223" title="Gmail"><img width="22" src="https://github.com/manjotsidhu/manjotsidhu/blob/master/icons/LinkedIN.png"> LinkedIn</a></code>
+    <code><a href="https://t.me/nubi" title="Gmail"><img width="22" src="https://github.com/manjotsidhu/manjotsidhu/blob/master/icons/Telegram.png"> Telegram</a></code>
+</p>
+<br />
 
-
-- 👨‍🎓 I’m a B.Tech CSE Student
+<div align="center">- 👨‍🎓 I’m a B.Tech CSE Student
 - 🔭 I’m currently working on HTML, CSS, JS, REACT and Google Apps Script
 - 🌱 I’m currently learning Web Development
 - 🌱 I’m currently learning Apps Script
 - ⚡ Future MERN stack Developer
+</div>
 
+<br />
 ###
-
+<div align="center">
 ### Connect with me 🧑🏻‍:
 
 <a href="https://www.facebook.com/profile.php?id=100007733971393" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-E34F26?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/mohd-hassan-11707a223/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-1572B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/ihassanansari/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-4c68d7?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</div>
 
+<div align="center">
 ### Languages and Tools 🧩🚀:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -48,11 +57,15 @@ src="https://img.shields.io/github/followers/killshotxd?logo=github&style=for-th
 ![Flutter](https://img.shields.io/badge/Flutter-1572B6?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-1572B6?style=for-the-badge&logo=dart&logoColor=white)
 
+</div>
 
+<div align="center">
 ### 💻 Workspace
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+</div>
+
 
 ## Stats 📈
 
