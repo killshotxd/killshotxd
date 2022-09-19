@@ -9,7 +9,9 @@ src="https://img.shields.io/github/followers/killshotxd?logo=github&style=for-th
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mohd+Hassan....;A.k.a+Killshotxd...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<a align='center'><img src="https://github.com/killshotxd/svgIcons/blob/main/code.gif" width="40%" /></a>
+
+<div align="center"><img src="https://github.com/killshotxd/svgIcons/blob/main/code.gif" width="40%" /></div>
+
 
 - 👨‍🎓 I’m a B.Tech CSE Student
 - 🔭 I’m currently working on HTML, CSS, JS, REACT and Google Apps Script
