@@ -77,11 +77,13 @@ src="https://img.shields.io/github/followers/killshotxd?logo=github&style=for-th
 </a>
 </p>
 <br>
-
+<div align="center">
 ## Top languages 🔝
 
 <img align='center' alt="languages" src="https://github-readme-stats-killshotxd.vercel.app/api/top-langs/?username=killshotxd&layout=compact&hide_border=true&theme=radical" />
-
+  
+  </div>
+<br>
 ![Hassan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=killshotxd&hide_border=true&theme=redical)
 
 <p align="center">
