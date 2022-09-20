@@ -67,7 +67,7 @@ src="https://img.shields.io/github/followers/killshotxd?logo=github&style=for-th
 </div>
 
 
-## Stats 📈
+<code align="center"> ## Stats 📈 </code>
 
 <p align="center">
 <a>
