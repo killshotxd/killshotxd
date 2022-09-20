@@ -78,7 +78,7 @@ src="https://img.shields.io/github/followers/killshotxd?logo=github&style=for-th
 </p>
 <br>
 <div align="center">
-## Top languages 🔝
+<h3>## Top languages 🔝 <h3>""
 
 <img  alt="languages" src="https://github-readme-stats-killshotxd.vercel.app/api/top-langs/?username=killshotxd&layout=compact&hide_border=true&theme=radical" />
   
