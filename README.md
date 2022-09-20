@@ -83,7 +83,7 @@ src="https://img.shields.io/github/followers/killshotxd?logo=github&style=for-th
 <img  alt="languages" src="https://github-readme-stats-killshotxd.vercel.app/api/top-langs/?username=killshotxd&layout=compact&hide_border=true&theme=radical" />
   
   </div>
-<br>
+
 ![Hassan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=killshotxd&hide_border=true&theme=redical)
 
 <p align="center">
