@@ -80,7 +80,7 @@ src="https://img.shields.io/github/followers/killshotxd?logo=github&style=for-th
 <div align="center">
 ## Top languages 🔝
 
-<img align='center' alt="languages" src="https://github-readme-stats-killshotxd.vercel.app/api/top-langs/?username=killshotxd&layout=compact&hide_border=true&theme=radical" />
+<img  alt="languages" src="https://github-readme-stats-killshotxd.vercel.app/api/top-langs/?username=killshotxd&layout=compact&hide_border=true&theme=radical" />
   
   </div>
 <br>
