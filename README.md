@@ -18,11 +18,11 @@ src="https://img.shields.io/github/followers/killshotxd?logo=github&style=for-th
 </p>
 <br />
 
-<div align="center">- 👨‍🎓 I’m a B.Tech CSE Student
-- 🔭 I’m currently working on HTML, CSS, JS, REACT and Google Apps Script
-- 🌱 I’m currently learning Web Development
-- 🌱 I’m currently learning Apps Script
-- ⚡ Future MERN stack Developer
+<div align="center"><p>- 👨‍🎓 I’m a B.Tech CSE Student</p>
+<p>- 🔭 I’m currently working on HTML, CSS, JS, REACT and Google Apps Script</p>
+<p>- 🌱 I’m currently learning Web Development</p>
+<p>- 🌱 I’m currently learning Apps Script</p>
+<p>- ⚡ Future MERN stack Developer</p>
 </div>
 
 <br />
