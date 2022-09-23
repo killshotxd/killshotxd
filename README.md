@@ -83,6 +83,30 @@ src="https://img.shields.io/github/followers/killshotxd?logo=github&style=for-th
 <img  alt="languages" src="https://github-readme-stats-killshotxd.vercel.app/api/top-langs/?username=killshotxd&layout=compact&hide_border=true&theme=radical" />
 </div>
 
+<h3 align="center">## 📕 Pinned Repositories</h3>
+
+
+<p align="center">
+
+<a href="https://github.com/killshotxd/Project-Manager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=killshotxd&repo=Project-Manager&hide_border=true&theme=radical" />
+</a>
+
+<a href="https://github.com/killshotxd/React-Modern-QuizzApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=killshotxd&repo=React-Modern-QuizzApp&hide_border=true&theme=radical" />
+</a>
+
+<a href="https://github.com/killshotxd/React-Quote">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=killshotxd&repo=React-Quote&hide_border=true&theme=radical" />
+</a>
+
+<a href="https://github.com/killshotxd/React-Music">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=killshotxd&repo=React-Music&hide_border=true&theme=radical" />
+</a>
+
+</p>
+
+
 ![Hassan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=killshotxd&hide_border=true&theme=redical)
 
 <p align="center">
