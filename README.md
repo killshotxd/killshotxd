@@ -103,7 +103,6 @@ src="https://img.shields.io/github/followers/killshotxd?logo=github&style=for-th
 <a href="https://github.com/killshotxd/React-Music">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=killshotxd&repo=React-Music&hide_border=true&theme=radical" />
 </a>
-
 </p>
 
 
@@ -112,4 +111,3 @@ src="https://img.shields.io/github/followers/killshotxd?logo=github&style=for-th
 <p align="center">
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
 </p>
-
