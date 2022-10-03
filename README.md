@@ -14,7 +14,7 @@ src="https://img.shields.io/github/followers/killshotxd?logo=github&style=for-th
   <code>
     <a href="mailto:hassanansari211@gmail.com" title="Gmail"><img width="22" src="https://github.com/manjotsidhu/manjotsidhu/blob/master/icons/Gmail.png"> Gmail</a></code>
     <code><a href="https://linkedin.com/in/mohd-hassan-11707a223" title="Gmail"><img width="22" src="https://github.com/manjotsidhu/manjotsidhu/blob/master/icons/LinkedIN.png"> LinkedIn</a></code>
-    <code><a href="https://t.me/nubi" title="Gmail"><img width="22" src="https://github.com/manjotsidhu/manjotsidhu/blob/master/icons/Telegram.png"> Telegram</a></code>
+    <code><a href="https://t.me/killshotxd" title="Gmail"><img width="22" src="https://github.com/manjotsidhu/manjotsidhu/blob/master/icons/Telegram.png"> Telegram</a></code>
 </p>
 <br />
 
