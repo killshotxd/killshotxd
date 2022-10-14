@@ -112,3 +112,5 @@ src="https://img.shields.io/github/followers/killshotxd?logo=github&style=for-th
 <p align="center">
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
 </p>
+
+/nt
