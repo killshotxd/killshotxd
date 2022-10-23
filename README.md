@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=killshotxd&style=for-the-badge&color=0891b2&labelColor=1c1917)
 ![image](https://user-images.githubusercontent.com/62786689/158386822-5355a031-0754-486c-b810-7c51c8f78fd1.png)
 <a href="https://www.github.com/killshotxd" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/killshotxd?logo=github&style=for-the-badge&color=#0891b2&labelColor=#1c1917" /></a>
+src="https://img.shields.io/github/followers/killshotxd?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
 <h1 align="center">
