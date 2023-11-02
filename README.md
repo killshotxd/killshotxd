@@ -18,7 +18,7 @@ src="https://img.shields.io/github/followers/killshotxd?logo=github&style=for-th
 </p>
 <br />
 
-<div align="center"><p>- 👨‍🎓 I’m a B.Tech CSE Graduatet</p>
+<div align="center"><p>- 👨‍🎓 I’m a B.Tech CSE Graduate</p>
 <p>- 🌱 Full Stack Web developer 🚀</p>
 <p>- 🔭 Very efficient in HTML, CSS, JavaScript, ReactJS, Angular, Firebase and nodeJs</p>
 <p>- 🌱 I’m currently learning Web Development</p>
