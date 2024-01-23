@@ -72,16 +72,16 @@ src="https://img.shields.io/github/followers/killshotxd?logo=github&style=for-th
 
 <p align="center">
 <a>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=killshotxd&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=killshotxd&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" />
 </a><a>
-  <img width="48%" src="https://github-readme-stats-killshotxd.vercel.app//api?username=killshotxd&repo=github-readme-stats&hide_border=true&hide=contribs&show_icons=true&theme=transparent" />
+  <img width="48%" src="https://github-readme-stats-killshotxd.vercel.app//api?username=killshotxd&repo=github-readme-stats&hide=contribs&show_icons=true&theme=transparent" />
 </a>
 </p>
 <br>
 
 <div align="center">
 <h3> ## Top languages 🔝 <h3>
-<img  alt="languages" src="https://github-readme-stats-killshotxd.vercel.app/api/top-langs/?username=killshotxd&layout=compact&hide_border=true&theme=radical" />
+<img  alt="languages" src="https://github-readme-stats-killshotxd.vercel.app/api/top-langs/?username=killshotxd&layout=compact&theme=transparent" />
 </div>
 
  <p align="left"> <a href="https://github.com/killshotxd/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=killshotxd" alt="killshotxd" /></a> </p>
