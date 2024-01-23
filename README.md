@@ -72,9 +72,9 @@ src="https://img.shields.io/github/followers/killshotxd?logo=github&style=for-th
 
 <p align="center">
 <a>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=killshotxd&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=killshotxd&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </a><a>
-  <img width="48%" src="https://github-readme-stats-killshotxd.vercel.app//api?username=killshotxd&repo=github-readme-stats&hide_border=true&hide=contribs&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats-killshotxd.vercel.app//api?username=killshotxd&repo=github-readme-stats&hide_border=true&hide=contribs&show_icons=true&theme=transparent" />
 </a>
 </p>
 <br>
