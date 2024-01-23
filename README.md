@@ -98,24 +98,24 @@ src="https://img.shields.io/github/followers/killshotxd?logo=github&style=for-th
 <p align="center">
 
 <a href="https://github.com/killshotxd/Project-Manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=killshotxd&repo=Project-Manager&hide_border=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=killshotxd&repo=Pub-SIS&theme=transparent" />
 </a>
 
 <a href="https://github.com/killshotxd/React-Modern-QuizzApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=killshotxd&repo=React-Modern-QuizzApp&hide_border=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=killshotxd&repo=Learn-More&theme=transparent" />
 </a>
 
 <a href="https://github.com/killshotxd/React-Quote">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=killshotxd&repo=React-Quote&hide_border=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=killshotxd&repo=butterfly&theme=transparent" />
 </a>
 
 <a href="https://github.com/killshotxd/React-Music">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=killshotxd&repo=React-Music&hide_border=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=killshotxd&repo=WorldChat&theme=transparent" />
 </a>
 </p>
 
 
-![Hassan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=killshotxd&hide_border=true&theme=redical)
+![Hassan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=killshotxd&theme=transparent)
 
 <p align="center">
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
