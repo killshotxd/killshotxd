@@ -84,6 +84,14 @@ src="https://img.shields.io/github/followers/killshotxd?logo=github&style=for-th
 <img  alt="languages" src="https://github-readme-stats-killshotxd.vercel.app/api/top-langs/?username=killshotxd&layout=compact&hide_border=true&theme=radical" />
 </div>
 
+ <p align="left"> <a href="https://github.com/tazheeb-shamsi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tazheeb-shamsi" alt="tazheeb-shamsi" /></a> </p>
+
+---
+
+  <!--NOMINATION FOR STAR GIT LINK CODE-->
+
+<a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>
+
 <h3 align="center">## 📕 Pinned Repositories</h3>
 
 
