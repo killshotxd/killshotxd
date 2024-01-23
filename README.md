@@ -84,7 +84,7 @@ src="https://img.shields.io/github/followers/killshotxd?logo=github&style=for-th
 <img  alt="languages" src="https://github-readme-stats-killshotxd.vercel.app/api/top-langs/?username=killshotxd&layout=compact&hide_border=true&theme=radical" />
 </div>
 
- <p align="left"> <a href="https://github.com/tazheeb-shamsi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tazheeb-shamsi" alt="tazheeb-shamsi" /></a> </p>
+ <p align="left"> <a href="https://github.com/killshotxd/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=killshotxd" alt="killshotxd" /></a> </p>
 
 ---
 
